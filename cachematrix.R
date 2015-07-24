@@ -9,6 +9,7 @@
 ## matrix otherwise it will calculate the inverse, cash it and 
 ## return the result
 
+
 ## This function will cash the inverse of a matrix.  When setting 
 ## up it stores a NULL into a variable, telling the cacheSolve 
 ## function that there is not a cashed value to be pulled.  
